@@ -14,7 +14,7 @@ from web3_proxy import AdvAsyncHTTPProvider
 
 
 async def main() -> None:
-	# NOTE: You can parse using func from `aiohttp_socks` lib
+	# NOTE: You can parse using func from `python_socks` lib from `aiohttp_socks` dep
 	addr = os_env['PADDR']
 	logpass = os_env['PLOGPASS']
 
