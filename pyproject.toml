@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "web3-proxy"
 version = "0.0.1"
-description = "SOCKS5 & more proxy provider for web3py."
+description = "SOCKS5 & more proxy providers for web3py."
 authors = ["BlackCatDevel0per <bcdev@mail.ru>"]
 license = "Apache 2.0"
 readme = "README.md"
